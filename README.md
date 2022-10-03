@@ -7,3 +7,5 @@ SQL introduction for the unit 1.
 CREATE TABLE series
 
 Select * FROM Customers show all the Customers.
+
+SELECT*, SELECT DISTNCT y columnas concretas.
